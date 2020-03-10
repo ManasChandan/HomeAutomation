@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://sensorrunner.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">412626328879</string>
+  <string name="google_storage_bucket" translatable="false">sensorrunner.appspot.com</string>
+  <string name="project_id" translatable="false">sensorrunner</string>
+  <string name="google_api_key" translatable="false">AIzaSyAHk4N5wYqLUxhr3vRY_fTqmCLSXM1yCOg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHk4N5wYqLUxhr3vRY_fTqmCLSXM1yCOg</string>
+  <string name="google_app_id" translatable="false">1:412626328879:android:32d99351434111d99a15da</string>
+  <string name="default_web_client_id" translatable="false">412626328879-lg8044cpa4uc842om5bq8i8go2465vdf.apps.googleusercontent.com</string>
+</resources>

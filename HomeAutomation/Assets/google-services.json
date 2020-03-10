@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "412626328879",
+    "firebase_url": "https://sensorrunner.firebaseio.com",
+    "project_id": "sensorrunner",
+    "storage_bucket": "sensorrunner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412626328879:android:32d99351434111d99a15da",
+        "android_client_info": {
+          "package_name": "com.DeadThief.Controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412626328879-lg8044cpa4uc842om5bq8i8go2465vdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk4N5wYqLUxhr3vRY_fTqmCLSXM1yCOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412626328879-lg8044cpa4uc842om5bq8i8go2465vdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412626328879:android:0484a776c6e26c689a15da",
+        "android_client_info": {
+          "package_name": "com.InnoVative.SENSORRUNNER"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412626328879-lg8044cpa4uc842om5bq8i8go2465vdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk4N5wYqLUxhr3vRY_fTqmCLSXM1yCOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412626328879-lg8044cpa4uc842om5bq8i8go2465vdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
